@@ -1,4 +1,4 @@
-# verloop
+# API
 ## Requirements
 * Django (v2.2)
 * Python (3.x)
